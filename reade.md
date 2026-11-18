@@ -1,0 +1,1 @@
+https://console-openshift-console.apps.cluster-2qsc5.2qsc5.sandbox5410.opentlc.com/
